@@ -19,4 +19,4 @@ I'm Praful Thakur currently learning python. passionate developer from India.
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Praful Thakur</a> Email: rajputpraful791@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/praful-thakur-b983a1349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Praful Thakur</a> Email: rajputpraful791@gmail.com</p>
