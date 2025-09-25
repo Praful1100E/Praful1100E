@@ -1,74 +1,82 @@
-<!-- Header Banner -->
+<!-- Banner -->
 <p align="center">
-  <!-- You can create a custom banner on sites like Canva and upload it to your repo -->
-  <img src="https://your-image-url-here.com/banner.png" alt="Praful Thakur's Profile Banner">
+  <!-- Replace with an actual hosted image -->
+  <img src="https://your-image-url-here.com/banner.png" alt="Praful Thakur — Python Developer">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Praful Thakur</h1>
-<h3 align="center">A passionate Python developer from India, specializing in automation and web development.</h3>
+<h3 align="center">Python developer focused on automation, Flask apps, and AI-driven tooling</h3>
 
 <p align="center">
   <a href="https://github.com/praful1100E?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View%20Here-blue?style=for-the-badge&logo=github" alt="Projects">
+    <img src="https://img.shields.io/badge/Projects-View%20work-1f6feb?style=for-the-badge&logo=github" alt="Projects Badge">
+  </a>
+  <a href="mailto:rajputpraful791@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/praful-thakur-b983a1349">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-
-I'm a developer with a strong interest in building practical solutions with Python. I enjoy tackling challenges and am always looking for opportunities to learn new technologies and collaborate with others.
-
-- 🌱 I’m currently diving deeper into **AI and Machine Learning**.
-- 🔭 I’m working on a **face recognition attendance system** [8].
-- 💬 Ask me about **Python, Flask, and building automation tools**.
-- 📫 You can reach me at: **rajputpraful791@gmail.com**
+- 🔭 Building a face recognition attendance system with real-time capture, storage, and reporting.  
+- 🌱 Deepening skills in AI/ML and deploying model-backed services.  
+- 💬 Ask about Python, Flask, automation pipelines, and production-ready REST APIs.  
+- 📫 Reach: rajputpraful791@gmail.com  
 
 ---
 
-### 🛠️ My Tech Stack
-
-This section showcases the technologies I work with. The icons are dynamically generated and provide a quick visual overview of my skills.
-
+### 🛠️ Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,flask,git,vscode,bash,raspberrypi&theme=dark" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,html,css,js,c,git,github,vscode,bash,raspberrypi,sqlite,postgres,docker,linux&theme=dark" alt="Skills" />
 </p>
 
+- Core: Python, Flask, Bash scripting  
+- Web & UI: HTML, CSS, basic JS for dashboards  
+- DevOps: Docker, Git/GitHub, Linux environments  
+- Data: SQLite/Postgres, CSV pipelines, basic ML workflows  
+
 ---
 
-### 📊 My GitHub Stats
+### 🚀 Featured Projects
+- Face Recognition Attendance: Flask + OpenCV, session management, CSV/DB reports, email summaries.  
+- Automation Tools: Data cleanup pipelines, Excel/CSV processors, batch renamers, and job schedulers.  
+- Raspberry Pi Builds: Lightweight agents, sensor integrations, and kiosk dashboards.  
 
-Here are some stats that showcase my activity and language preferences on GitHub. The new layout uses a table for a cleaner, more organized look, and the streak counter focuses on your current momentum this year.
+Tip: Pin repos for quick access on profile settings.
 
+---
+
+### 📊 GitHub Stats
 <table width="100%" align="center">
-  <tr border="none">
+  <tr>
     <td width="50%" align="center">
-      <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=praful1100E&theme=dark&show_icons=true&count_private=true&hide_border=true&rank_icon=github" alt="Praful's GitHub Stats">
+      <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=praful1100E&theme=dark&show_icons=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-streak-stats-five-roan.vercel.app?user=praful1100E&theme=dark&hide_border=true" alt="Praful's GitHub Streak">
+      <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=praful1100E&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
-  <tr border="none">
+  <tr>
     <td colspan="2" align="center">
-      <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=praful1100E&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8" alt="Praful's Top Languages">
+      <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=praful1100E&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔗 Connect With Me
-
-Let's connect! You can find me on the following platforms.
-
+### 🔗 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/praful-thakur-b983a1349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/praful-thakur-b983a1349" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:rajputpraful791@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-Message-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+<!-- Optional: Auto-updating sections (blogs, metrics, quotes) can be added later via GitHub Actions -->
