@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/praful1100e/praful1100e/main/assets/praful_thakur_profile_pic.png" alt="Praful Thakur" width="150" style="border-radius:50%; margin-bottom: 20px;">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Praful Thakur</h1>
+<h1 align="center">Hi there , I'm Praful Thakur</h1>
 <h3 align="center">Python Developer focused on Automation, Flask Apps, and AI-driven tooling 🚀</h3>
 
 <p align="center">
