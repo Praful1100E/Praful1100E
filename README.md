@@ -20,8 +20,6 @@
 ---
 
 ### 👨‍💻 About Me
-
--   🔭 I’m currently building a **face recognition attendance system** with real-time capture, storage, and reporting.
 -   🌱 I’m actively deepening my skills in **AI/ML** and deploying model-backed services.
 -   💬 Ask me about **Python, Flask, automation pipelines, and production-ready REST APIs.**
 -   ⚡ Fun fact: I love automating repetitive tasks to make life simpler!
