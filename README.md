@@ -23,7 +23,7 @@
 -   🌱 I’m actively deepening my skills in **AI/ML** and deploying model-backed services.
 -   💬 Ask me about **Python, Flask, automation pipelines, and production-ready REST APIs.**
 -   ⚡ Fun fact: I love automating repetitive tasks to make life simpler!
-
+- Currently learning web 3 technology 
 ---
 
 ### 🛠️ My Tech Stack
