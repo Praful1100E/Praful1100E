@@ -1,3 +1,4 @@
+https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
 <p align="center">
   <img src="https://raw.githubusercontent.com/praful1100e/praful1100e/main/assets/praful_thakur_profile_pic.png" alt="Praful Thakur" width="150" style="border-radius:50%; margin-right: 20px;">
   <img src="YOUR_IMAGE_URL_HERE.jpg" width="400" alt="Developer coding with dual monitors">
