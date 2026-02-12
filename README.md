@@ -12,3 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praful1100e&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praful1100e/praful1100e/output/snake.svg" alt="Snake animation" />
+</p>
